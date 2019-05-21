@@ -1,0 +1,27 @@
+{
+  "name": "nodeLearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "advancedFileSystem.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushanthAC/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushanthAC/NodeJS/issues"
+  },
+  "homepage": "https://github.com/sushanthAC/NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0"
+  }
+}
